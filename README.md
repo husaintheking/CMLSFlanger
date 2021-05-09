@@ -1,6 +1,6 @@
 # **JUCE PLUGIN: FLANGER**
 
-<img src="img/flanger.jpg" alt="pedals" width="200"/>
+<img src="img/pedals.jpg" alt="pedals" width="200"/>
 
 ## **Overview**
 
