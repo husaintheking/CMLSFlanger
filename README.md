@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-This is a flanger effect plugin using the JUCE implemented platform. The flanger is implemented using a delay line connected to an LFO and an interpolation algorithm. The effect plugin has various controls such as feedback, delay time, depth, LFO frequency and width. It also has controls for the LFO waveform type and can function in either mono or stereo. The internal bypass button provides the possibility of performing the A/B testing efficiently. This plugin can be used as a VST within any DAW to modify and add effects to the sound of an instrument or a recording.
+This is a flanger effect plugin using the JUCE implemented platform and inspired by the Twin Peaks show. The flanger is implemented using a delay line connected to an LFO and an interpolation algorithm. The effect plugin has various controls such as feedback, delay time, depth, LFO frequency and width. It also has controls for the LFO waveform type and can function in either mono or stereo. The internal bypass button provides the possibility of performing the A/B testing efficiently. This plugin can be used as a VST within any DAW to modify and add effects to the sound of an instrument or a recording.
 
 
 ## **Effect Control Parameters**
